@@ -5,7 +5,7 @@ correcciones que encontraste impartiéndolo o tomándolo.
 
 ## Qué reportar
 
-- Un paso del laboratorio que no funciona como está escrito
+- Un paso del laboratorio que no funciona como está escrito v2
 - Una versión de acción o de SDK que quedó desactualizada
 - Un error que tus participantes cometieron y que no está en la tabla de
   "Cuando algo falla" del ejercicio correspondiente
