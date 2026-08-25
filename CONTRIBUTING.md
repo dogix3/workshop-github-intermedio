@@ -5,7 +5,7 @@ correcciones que encontraste impartiéndolo o tomándolo.
 
 ## Qué reportar
 
--Nuevo elemento
+-Nuevo elemento v2
 
 - Un paso del laboratorio que no funciona como está escrito
 - Una versión de acción o de SDK que quedó desactualizada
