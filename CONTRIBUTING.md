@@ -5,6 +5,8 @@ correcciones que encontraste impartiéndolo o tomándolo.
 
 ## Qué reportar
 
+-Nuevo elemento
+
 - Un paso del laboratorio que no funciona como está escrito
 - Una versión de acción o de SDK que quedó desactualizada
 - Un error que tus participantes cometieron y que no está en la tabla de
